@@ -1,0 +1,19 @@
+{
+    "discord":
+    {
+        "apiVersion": "9",
+        "webhooks":
+        {
+            "successful": "",
+            "missed": "",
+            "embedMedia": ""
+        }
+    },
+    "sniper":
+    {
+        "saveInvites": false,
+        "snipeOnMain": false,
+        "noInfo": false,
+        "threads": 10
+    }
+}
